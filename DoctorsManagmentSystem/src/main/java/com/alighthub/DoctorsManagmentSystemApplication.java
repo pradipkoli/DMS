@@ -8,7 +8,7 @@ public class DoctorsManagmentSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DoctorsManagmentSystemApplication.class, args);
-		System.out.println("Doctors Managment System Project");
+		System.out.println("Doctors Managment System Project222");
 		
 	}
 
